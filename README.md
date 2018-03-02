@@ -1,3 +1,4 @@
+<pre>
 // npm i gulp-imagemin imagemin-pngquant imagemin-zopfli imagemin-mozjpeg imagemin-giflossy --save-dev<br>
 var gulp = require('gulp'),<br>
   imagemin = require('gulp-imagemin'),<br>
@@ -37,3 +38,5 @@ gulp.task('imgOptimizer', function () {<br>
 });<br><br>
 
 gulp.task('default', ['imgOptimizer']);<br>
+
+</pre>
