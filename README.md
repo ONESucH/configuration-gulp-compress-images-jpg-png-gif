@@ -1,0 +1,1 @@
+# configuration-gulp-compress-images-jpg-png-gif
