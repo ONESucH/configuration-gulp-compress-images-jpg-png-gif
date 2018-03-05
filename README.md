@@ -1,5 +1,5 @@
 <pre>
-// npm i gulp-imagemin imagemin-pngquant imagemin-zopfli imagemin-mozjpeg imagemin-giflossy --save-dev
+// npm i gulp-imagemin imagemin-pngquant imagemin-zopfli imagemin-mozjpeg imagemin-giflossy gulp-plumber gulp-uglify pump --save-dev
 
 /* Оптимизируем картинки */
 var gulp = require('gulp'),
